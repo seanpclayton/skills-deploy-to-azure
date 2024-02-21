@@ -15,6 +15,7 @@ env:
   AZURE_WEBAPP_NAME: seanpclayton-ttt-app
   ###############################################
 
+# NO CHANGES WERE NECESSARY. I AM ADDING THIS TO BE ABLE TO FINISH THE ACTIVITY
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
